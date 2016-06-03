@@ -1,0 +1,27 @@
+/* CSS Document */
+*{
+	font-family: algerian;
+	font-size:25px;
+	color:orange;
+}
+body{
+	width:400px;
+	margin:auto;
+	background-color: salmon;
+}
+input[ type= submit]{
+        background-color: yellow; 
+        color : red; 
+        padding : .5em 1em ; 
+        border: 5; 
+        border-radius: 8px; 
+        cursor: pointer ;
+}
+label{
+	        background-color: pink; 
+        color : lawngreen; 	
+}
+select{
+		        background-color: BLUE; 
+        color : GRAY; 
+}
